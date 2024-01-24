@@ -2,7 +2,7 @@
     "development": {
       "username": "postgres",
       "password": "postgres",
-      "database": "sequelize",
+      "database": "my_pgdb",
       "host": "localhost",
       "dialect": "postgres"
     },
@@ -21,3 +21,4 @@
       "dialect": "postgres"
     }
   }
+
